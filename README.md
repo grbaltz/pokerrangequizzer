@@ -10,6 +10,9 @@ Random testing coming soon
 
 Tips:
 y = yes
+
 n = no
+
 r = no more hands in this row
+
 x = no more hands in this range
